@@ -14,9 +14,7 @@ public class StringsAndThings {
      *           countYZ("day fez"); // Should return 2
      *           countYZ("day fyyyz"); // Should return 2
      */
-    public Integer countYZ(String input){
-        return null;
-    }
+    public Integer countYZ(String input){ return null; }
 
     /**
      * Given two strings, base and remove, return a version of the base string where all instances of the remove string have
